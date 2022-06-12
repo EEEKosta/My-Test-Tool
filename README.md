@@ -9,3 +9,6 @@ https://chrome.google.com/webstore/detail/crossbrowsertesting-go/oapindodkkndonm
 
 Fake Filler - автозаполнение текстовых полей, рандомно заполняет дропдауны, чек-боксы и радио-баттоны
 https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en
+
+WhatFont - просто наведи курсор на любой шрифт, и оно покажет, какой именно шрифт и свойства тут применены
+https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related
