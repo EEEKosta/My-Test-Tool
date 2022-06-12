@@ -6,3 +6,6 @@ https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibn
 
 CrossBrowserTesting GO — немного кроссбраузерного тестирования в расширении от Google, позволяет: имитировать работу любой операционной системы; умеет выставлять и настраивать отображение сайта на разных версиях браузеров; имитирует популярные и не популярные мобильные девайсы и их операционные системы, а также работу с интернетом.
 https://chrome.google.com/webstore/detail/crossbrowsertesting-go/oapindodkkndonmflelpddkehnocnenh
+
+Fake Filler - автозаполнение текстовых полей, рандомно заполняет дропдауны, чек-боксы и радио-баттоны
+https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en
