@@ -13,7 +13,10 @@ https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmi
 WhatFont - просто наведи курсор на любой шрифт, и оно покажет, какой именно шрифт и свойства тут применены
 https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related
 
-Screencastify - запись эцрана во время тестирования, можно оставить коментарии и выдиления прямо во время записи
+Awesome Screenshot - запись экрана, скриншоты и аннотации
+https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj
+
+Screencastify - запись эцрана и аннотации прямо во время записи
 https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn
 
 EditThisCookie - это менеджер cookie. Вы можете добавлять, удалять, изменять, искать, защищать и блокировать cookie
