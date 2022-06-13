@@ -21,3 +21,6 @@ https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbp
 
 EditThisCookie - это менеджер cookie. Вы можете добавлять, удалять, изменять, искать, защищать и блокировать cookie
 https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
+
+Responsive Viewer - расширение позволяет протестировать рабоут приложения одновременно на разных размерах экрана
+https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb
